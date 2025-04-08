@@ -3,3 +3,6 @@ include
 lib
 etc
 share
+lib64
+pyvenv.cfg
+src/__pycache__/
